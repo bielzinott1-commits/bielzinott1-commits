@@ -147,6 +147,14 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 </div>
 
+<div align="center">
+
+#        Explore mais a fundo meu perfil!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0078FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Future+Entrepreneur;Full+Stack+Developer+in+Progress;Always+Learning+New+Technologies" />
+
+</div>
+
 ---
 
 # 🚀 Tecnologias
