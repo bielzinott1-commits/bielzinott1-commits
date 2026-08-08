@@ -109,23 +109,88 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bielzinott1-commits&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielzinott1-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielzinott1-commits&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielzinott1-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-</p>
+</div>
 
+---
+
+<div align="center">
+
+# 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bielzinott1-commits&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bielzinott1-commits&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 Conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=bielzinott1-commits&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,nodejs,python,java,vscode&theme=dark"/>
+
+</div>
+
+---
+
+# 🌐 Redes
+
+<div align="center">
+
+<a href="https://github.com/bielzinott1-commits">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/davi-gabriel-santos-b87a68404?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/d.gabriel_santos/#">
+<img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Frase
+
+> **"A tecnologia recompensa quem nunca para de aprender."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bielzinott1-commits&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</div>
