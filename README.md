@@ -37,6 +37,8 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 ---
 
+<div align="center">
+
 ###  Linguagens e Tecnologias
 
 <img 
@@ -108,6 +110,8 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 <br/>
 <br/>
+
+<div align="center">
 
 #  Estatísticas
 
