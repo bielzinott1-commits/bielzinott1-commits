@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina. Cursando o ensino médio em Araquari, com demais cursos de IA pelo Senai. Atualmente, estou cursando Informática para internet no Senai | Joinville. Sou apaixonado por tecnologia e compartilho e busco aprimorar meu conhecimento ainda mais nas demais áreas envolvendo tecnologia, possuo algumas redes sociais Youtube "[DaviGamerrX](http://www.youtube.com/@DaviGamerX_shorts)", onde gosto de falar um pouco de varias curiosidades e ajudar sempre que for preciso, e também através do Instagram, com o perfil chamado "[d.gabriel_santos](https://www.instagram.com/d.gabriel_santos?igsh=MXJ4eHNrbThiazRhZw==)", acesse também a minha twitch espaço onde faço algumas lives para distrair "[DaviGamerrX](https://m.twitch.tv/davigamerrx/home)", acesse meu Linkedin para não ficar por fora de nada! "[Davi Gabriel dos Santos](https://www.linkedin.com/in/davi-gabriel-santos-b87a68404?utm_source=share_via&utm_content=profile&utm_medium=member_android)", estas linguagens a baixo algumas estão em aperfeiçoamento ao momento!.
+Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina. Cursando o ensino médio em Araquari, com demais cursos de IA pelo Senai. Atualmente, estou cursando Informática para internet no Senai | Joinville. Sou apaixonado por tecnologia e compartilho e busco aprimorar meu conhecimento ainda mais nas demais áreas envolvendo tecnologia. Possuo algumas redes sociais Youtube "[DaviGamerrX](http://www.youtube.com/@DaviGamerX_shorts)", onde gosto de falar um pouco de varias curiosidades e ajudar sempre que for preciso, e também através do Instagram, com o perfil chamado "[d.gabriel_santos](https://www.instagram.com/d.gabriel_santos?igsh=MXJ4eHNrbThiazRhZw==)", acesse também a minha twitch espaço onde faço algumas lives para distrair "[DaviGamerrX](https://m.twitch.tv/davigamerrx/home)", acesse meu Linkedin para não ficar por fora de nada! "[Davi Gabriel dos Santos](https://www.linkedin.com/in/davi-gabriel-santos-b87a68404?utm_source=share_via&utm_content=profile&utm_medium=member_android)", estas linguagens a baixo algumas estão em aperfeiçoamento ao momento!.
 
 <p align="left">
     <a href="http://www.youtube.com/@DaviGamerX_shorts?sub_confirmation=1">
@@ -41,72 +41,9 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 ###  Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<div align="center">
 
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,nodejs,python,java,php,vscode&theme=dark"/>
 
 <br/>
 <br/>
