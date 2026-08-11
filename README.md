@@ -37,7 +37,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -109,7 +109,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 <br/>
 <br/>
 
-# 📊 Estatísticas
+#  Estatísticas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielzinott1-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
@@ -121,7 +121,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 <div align="center">
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bielzinott1-commits&theme=tokyonight&hide_border=true"/>
 
@@ -131,7 +131,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 <div align="center">
 
-# 📈 Atividade
+#  Atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bielzinott1-commits&theme=tokyo-night&hide_border=true"/>
 
@@ -141,7 +141,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 <div align="center">
 
-# 🏆 Conquistas
+#  Conquistas
 
 <img src="https://github-profile-trophy.vercel.app/?username=bielzinott1-commits&theme=algolia&no-frame=true&row=2&column=4"/>
 
@@ -157,7 +157,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 ---
 
-# 🚀 Tecnologias
+#  Tecnologias
 
 <div align="center">
 
@@ -167,7 +167,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 ---
 
-# 🌐 Redes
+#  Redes
 
 <div align="center">
 
@@ -189,7 +189,7 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
 
 <div align="center">
 
-## 💡 Frase
+##  Frase
 
 > **"A tecnologia recompensa quem nunca para de aprender."**
 
