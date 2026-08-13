@@ -18,12 +18,19 @@ Me chamo Davi Gabriel dos Santos, tenho 16 anos e sou natural de Santa Catarina.
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
+        </a> 
     <a href="https://github.com/bielzinott1-commits?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/bielzinott1-commits?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a> 
+    <a href="https://bielzinott1@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Gmail" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://github.com/bielzinott1-commits?tab=followers">
